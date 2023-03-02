@@ -11,3 +11,5 @@ File explanation:
 
 [1.0] Chemical_data_long_AB.csv is the dataset for the above/below waterfall analysis.
 
+Soil pit scans.pdf are scans of soil pit sketches.
+
